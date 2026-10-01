@@ -1,5 +1,7 @@
 import { SITE_URL, SITE_ROUTES } from "@/lib/siteConfig";
 
+export const dynamic = "force-static";
+
 export default function sitemap() {
   const lastModified = new Date();
 
