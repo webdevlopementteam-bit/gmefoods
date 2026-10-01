@@ -23,8 +23,60 @@ export default function BlogPage() {
     <main className="min-h-screen bg-[#F9F8F1] py-10 sm:py-14 lg:py-16">
       <div className="mx-auto w-[92%] max-w-6xl">
         {/* Blog Cards */}
-        <div className="flex flex-wrap justify-start gap-8">
-          <article className="group flex w-full max-w-sm flex-col overflow-hidden rounded-2xl border border-[#e5dfcf] bg-white shadow-[0_8px_25px_rgba(0,0,0,0.07)] transition-all duration-500 hover:-translate-y-2 hover:shadow-[0_18px_40px_rgba(0,0,0,0.12)]">
+        <div className="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3">
+          <article className="group flex w-full flex-col overflow-hidden rounded-2xl border border-[#e5dfcf] bg-white shadow-[0_8px_25px_rgba(0,0,0,0.07)] transition-all duration-500 hover:-translate-y-2 hover:shadow-[0_18px_40px_rgba(0,0,0,0.12)]">
+            {/* Blog Title */}
+            <div className="px-6 pt-7">
+              <p className="text-black">Blog</p>
+              <Link href="/chips-and-namkeen-distributorship-in-bihar">
+                <h2 className="text-xl font-bold leading-snug text-[#1A1A1A] transition-colors duration-300 hover:text-[#A67C00]">
+                  How to Get Chips and Namkeen Distributorship in Bihar
+                </h2>
+              </Link>
+            </div>
+
+            {/* Image */}
+            <Link
+              href="/chips-and-namkeen-distributorship-in-bihar"
+              className="mt-5 block overflow-hidden"
+            >
+              <div className="relative h-[280px] w-full">
+                <Image
+                  src="/product-images/Chips/Masala Chips.webp"
+                  alt="Chips and Namkeen Distributorship in Bihar"
+                  fill
+                  sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
+                  className="object-contain p-6 transition-transform duration-700 group-hover:scale-105"
+                  priority
+                />
+              </div>
+            </Link>
+
+            {/* Content */}
+            <div className="flex flex-1 flex-col p-6">
+              {/* Description */}
+              <p className="text-sm leading-7 text-gray-600 sm:text-base">
+                Bihar&apos;s love for chips, namkeen and traditional snacks
+                continues to grow. Here&apos;s how to get a chips and namkeen
+                distributorship in Bihar and why GME Foods can be the right
+                partner…
+              </p>
+
+              {/* Read more */}
+              <div className="mt-auto pt-7">
+                <div className="flex items-center gap-2 border-t border-[#eee9dc] pt-5 text-xs sm:text-sm">
+                  <Link
+                    href="/chips-and-namkeen-distributorship-in-bihar"
+                    className="font-semibold text-[#A67C00] transition-colors hover:text-[#806000] hover:underline"
+                  >
+                    Read more
+                  </Link>
+                </div>
+              </div>
+            </div>
+          </article>
+
+          <article className="group flex w-full flex-col overflow-hidden rounded-2xl border border-[#e5dfcf] bg-white shadow-[0_8px_25px_rgba(0,0,0,0.07)] transition-all duration-500 hover:-translate-y-2 hover:shadow-[0_18px_40px_rgba(0,0,0,0.12)]">
             {/* Blog Title */}
             <div className="px-6 pt-7">
               <p className="text-black">Blog</p>
@@ -77,7 +129,7 @@ export default function BlogPage() {
             </div>
           </article>
 
-          <article className="group flex w-full max-w-sm flex-col overflow-hidden rounded-2xl border border-[#e5dfcf] bg-white shadow-[0_8px_25px_rgba(0,0,0,0.07)] transition-all duration-500 hover:-translate-y-2 hover:shadow-[0_18px_40px_rgba(0,0,0,0.12)]">
+          <article className="group flex w-full flex-col overflow-hidden rounded-2xl border border-[#e5dfcf] bg-white shadow-[0_8px_25px_rgba(0,0,0,0.07)] transition-all duration-500 hover:-translate-y-2 hover:shadow-[0_18px_40px_rgba(0,0,0,0.12)]">
             {/* Blog Title */}
             <div className="px-6 pt-7">
               <p className="text-black">Blog</p>

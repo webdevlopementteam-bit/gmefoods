@@ -9,5 +9,6 @@ export const SITE_ROUTES = [
   "/contact-us",
   "/gallery",
   "/best-namkeen-brand-in-bihar",
+  "/chips-and-namkeen-distributorship-in-bihar",
   "/that-one-night-i-craved-bhel-in-mumbai-and-it-changed-everything",
 ];
