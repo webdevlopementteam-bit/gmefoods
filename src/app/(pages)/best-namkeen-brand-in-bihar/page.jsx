@@ -131,7 +131,7 @@ const faqs = [
   },
 ];
 
-const SITE_URL = "https://www.gmefoods.com";
+const SITE_URL = "https://gmefoods.com";
 const PUBLISH_DATE = "2026-10-01";
 
 const blogPostingSchema = {
@@ -139,12 +139,12 @@ const blogPostingSchema = {
   "@type": "BlogPosting",
   mainEntityOfPage: {
     "@type": "WebPage",
-    "@id": `${SITE_URL}/best-namkeen-brand-in-bihar`,
+    "@id": `${SITE_URL}/best-namkeen-brand-in-bihar/`,
   },
   headline: "Best Namkeen Brand in Bihar: How to Choose + Why Consider GME Foods",
   description:
     "Looking for the best namkeen brand in Bihar? Know what to check before buying, popular namkeens, and explore GME Foods' range from Patna.",
-  image: `${SITE_URL}/Products/Namkeen/Bikaneri Bhujia.png`,
+  image: `${SITE_URL}/product-images/Namkeen/Bikaneri Bhujia.png`,
   inLanguage: "en-IN",
   keywords:
     "best namkeen brand in Bihar, namkeen manufacturer in Bihar, namkeen franchise in Bihar, Bhujia, Diet Chiwda, Moong Dal, GME Foods",

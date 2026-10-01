@@ -20,7 +20,7 @@ export default function BlogDetailPage() {
 
         <div className="mt-5 flex flex-wrap items-center gap-3 text-sm text-gray-600">
           <Link
-            href="https://www.gmefoods.com/author/bizmartbharat/"
+            href="https://gmefoods.com/author/bizmartbharat/"
             target="_blank"
             rel="noopener noreferrer"
             className="font-semibold text-[#A67C00] hover:underline"
@@ -35,7 +35,7 @@ export default function BlogDetailPage() {
           <span>•</span>
 
           <Link
-            href="https://www.gmefoods.com/category/blog/"
+            href="https://gmefoods.com/category/blog/"
             target="_blank"
             rel="noopener noreferrer"
             className="font-semibold text-[#A67C00] hover:underline"

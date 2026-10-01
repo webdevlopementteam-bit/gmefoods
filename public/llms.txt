@@ -6,19 +6,19 @@ GME Foods products include Bhujia, Paneer Bhujia, Diet Chiwda, Moong Dal, mixtur
 
 ## Company
 
-- [Home](https://www.gmefoods.com/): Overview of GME Foods, its snack range and brand story.
-- [About Us](https://www.gmefoods.com/about-us): Company background, manufacturing facility in Hajipur, and quality standards.
-- [Management Team](https://www.gmefoods.com/management-team): Leadership — Chairman & MD Navin Kumar Motani and Director Sumit Saraf.
-- [Contact Us](https://www.gmefoods.com/contact-us): Phone (18008894699), email (gmeximpvtltd@gmail.com) and office address (302 Ashiana Chambers, Exhibition Road, Patna-800001, Bihar).
+- [Home](https://gmefoods.com/): Overview of GME Foods, its snack range and brand story.
+- [About Us](https://gmefoods.com/about-us): Company background, manufacturing facility in Hajipur, and quality standards.
+- [Management Team](https://gmefoods.com/management-team): Leadership — Chairman & MD Navin Kumar Motani and Director Sumit Saraf.
+- [Contact Us](https://gmefoods.com/contact-us): Phone (18008894699), email (gmeximpvtltd@gmail.com) and office address (302 Ashiana Chambers, Exhibition Road, Patna-800001, Bihar).
 
 ## Products
 
-- [Products](https://www.gmefoods.com/products): Full namkeen, chips, extruded snacks and rusk range.
+- [Products](https://gmefoods.com/products): Full namkeen, chips, extruded snacks and rusk range.
 
 ## Blog
 
-- [Best Namkeen Brand in Bihar](https://www.gmefoods.com/best-namkeen-brand-in-bihar): Buying guide on what to check before buying packaged namkeen, popular namkeen types, and GME Foods' range.
-- [That One Night I Craved Bhel in Mumbai](https://www.gmefoods.com/that-one-night-i-craved-bhel-in-mumbai-and-it-changed-everything): A snack-story blog post about street-side bhel in Mumbai.
+- [Best Namkeen Brand in Bihar](https://gmefoods.com/best-namkeen-brand-in-bihar): Buying guide on what to check before buying packaged namkeen, popular namkeen types, and GME Foods' range.
+- [That One Night I Craved Bhel in Mumbai](https://gmefoods.com/that-one-night-i-craved-bhel-in-mumbai-and-it-changed-everything): A snack-story blog post about street-side bhel in Mumbai.
 
 ## Notes
 

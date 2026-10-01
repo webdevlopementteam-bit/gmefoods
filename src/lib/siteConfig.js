@@ -1,4 +1,4 @@
-export const SITE_URL = "https://www.gmefoods.com";
+export const SITE_URL = "https://gmefoods.com";
 
 export const SITE_ROUTES = [
   "/",

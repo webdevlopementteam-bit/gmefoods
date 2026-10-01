@@ -43,7 +43,7 @@ export default function BlogPage() {
             >
               <div className="relative h-[280px] w-full">
                 <Image
-                  src="/Products/Namkeen/Bikaneri Bhujia.png"
+                  src="/product-images/Namkeen/Bikaneri Bhujia.png"
                   alt="Best Namkeen Brand in Bihar"
                   fill
                   sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
@@ -95,7 +95,7 @@ export default function BlogPage() {
 
             {/* Image */}
             <Link
-              href="https://www.gmefoods.com/that-one-night-i-craved-bhel-in-mumbai-and-it-changed-everything/"
+              href="https://gmefoods.com/that-one-night-i-craved-bhel-in-mumbai-and-it-changed-everything/"
               target="_blank"
               rel="noopener noreferrer"
               className="mt-5 block overflow-hidden"
@@ -126,7 +126,7 @@ export default function BlogPage() {
               <div className="mt-auto pt-7">
                 <div className="flex items-center gap-2 border-t border-[#eee9dc] pt-5 text-xs sm:text-sm">
                   <Link
-                    href="https://www.gmefoods.com/author/bizmartbharat/"
+                    href="https://gmefoods.com/author/bizmartbharat/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="font-semibold text-[#A67C00] transition-colors hover:text-[#806000] hover:underline"

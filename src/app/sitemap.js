@@ -6,7 +6,7 @@ export default function sitemap() {
   const lastModified = new Date();
 
   return SITE_ROUTES.map((route) => ({
-    url: `${SITE_URL}${route}`,
+    url: `${SITE_URL}${route.endsWith("/") ? route : `${route}/`}`,
     lastModified,
     changeFrequency: "daily",
     priority: route === "/" ? 1 : 0.8,
