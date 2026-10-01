@@ -1,5 +1,15 @@
 import Link from "next/link";
 
+export const metadata = {
+  title: "That One Night I Craved Bhel in Mumbai | GME Foods Blog",
+  description:
+    "A late-night bhel craving in Mumbai turned into a memory worth sharing — a GME Foods blog story about street food, nostalgia and simple comforts.",
+  alternates: {
+    canonical:
+      "/that-one-night-i-craved-bhel-in-mumbai-and-it-changed-everything",
+  },
+};
+
 export default function BlogDetailPage() {
   return (
     <main className="min-h-screen bg-[#F9F8F1] py-10 sm:py-14 lg:py-20">

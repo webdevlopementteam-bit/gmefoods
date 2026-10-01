@@ -2,6 +2,16 @@
 
 import Image from "next/image";
 
+export const metadata = {
+  title: "Management Team | Navin Kumar Motani & Sumit Saraf | GME",
+  description:
+    "Meet the leadership team of GME Foods (G.M. Exim Pvt. Ltd.): Chairman & MD Navin Kumar Motani and Director Sumit Saraf, Chartered Accountant.",
+  keywords: ["GME Foods management team"],
+  alternates: {
+    canonical: "/management-team",
+  },
+};
+
 export default function ManagementPage() {
   return (
     <main className="w-full overflow-hidden bg-[#F9F8F1]">
