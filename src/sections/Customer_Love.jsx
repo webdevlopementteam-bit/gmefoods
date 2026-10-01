@@ -10,9 +10,17 @@ export default function Customer_Love() {
         <div className="mx-auto w-full max-w-[1400px]">
           {/* Heading */}
           <div className="px-4 pb-8 pt-8 text-center sm:px-6 sm:pb-10 sm:pt-10 md:px-8 md:pb-12 md:pt-12">
+            <p className="mb-2 font-playfair text-base font-semibold text-gray-700 sm:text-lg">
+              What Our Customers Say
+            </p>
             <h2 className="font-playfair text-3xl font-bold text-[#00509D] sm:text-4xl md:text-5xl">
               Customer Love
             </h2>
+            <p className="mx-auto mt-4 max-w-[800px] text-sm leading-7 text-gray-700 sm:text-base sm:leading-8">
+              Customers love GME&apos;s Mumbai Bhel, Aloo Bhujia, Paneer
+              Bhujia and Badaam Pakoda for their freshness, crunch and taste.
+              Parents say their kids enjoy Noodles and Tomato Katori too.
+            </p>
           </div>
 
           {/* Customer Cards */}

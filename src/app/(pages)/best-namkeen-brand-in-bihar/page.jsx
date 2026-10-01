@@ -144,7 +144,7 @@ const blogPostingSchema = {
   headline: "Best Namkeen Brand in Bihar: How to Choose + Why Consider GME Foods",
   description:
     "Looking for the best namkeen brand in Bihar? Know what to check before buying, popular namkeens, and explore GME Foods' range from Patna.",
-  image: `${SITE_URL}/product-images/Namkeen/Bikaneri Bhujia.png`,
+  image: `${SITE_URL}/product-images/Namkeen/Bikaneri Bhujia.webp`,
   inLanguage: "en-IN",
   keywords:
     "best namkeen brand in Bihar, namkeen manufacturer in Bihar, namkeen franchise in Bihar, Bhujia, Diet Chiwda, Moong Dal, GME Foods",

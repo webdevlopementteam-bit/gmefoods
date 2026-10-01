@@ -43,7 +43,7 @@ export default function BlogPage() {
             >
               <div className="relative h-[280px] w-full">
                 <Image
-                  src="/product-images/Namkeen/Bikaneri Bhujia.png"
+                  src="/product-images/Namkeen/Bikaneri Bhujia.webp"
                   alt="Best Namkeen Brand in Bihar"
                   fill
                   sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
